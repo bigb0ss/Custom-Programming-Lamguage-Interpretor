@@ -1,0 +1,16 @@
+if 20 == 10 then
+	paathuko "Condition True"
+endif
+
+paathuko "Hello World"
+
+paathuko 10*5
+
+$var=10
+paathuko $var
+
+$var1 = 9*(9+1)
+paathuko $var1
+
+input "Enter your number :" $variable
+paathuko $variable

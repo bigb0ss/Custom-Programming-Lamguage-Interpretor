@@ -1,0 +1,8 @@
+$v=5
+if $v == 5 then
+	paathuko $v
+endif
+input "enter number" $s
+if $s == 1 then
+	paathuko "one"
+endif
